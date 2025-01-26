@@ -1,1 +1,1 @@
-https://github.com/yoru-glorb/ono-tebe-nado
+https://github.com/yoru-glorb/-ono-tebe-nado-fd.git
